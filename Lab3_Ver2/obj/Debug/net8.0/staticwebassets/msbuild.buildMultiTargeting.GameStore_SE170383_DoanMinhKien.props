@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GameStore_SE170383_DoanMinhKien.props" />
+</Project>

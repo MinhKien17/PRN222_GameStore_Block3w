@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using DataLayer.Repository.Interface;
+
+namespace DataLayer.Repository.Implement
+{
+    public class GameRepo : IGameRepo
+    {
+    }
+}
