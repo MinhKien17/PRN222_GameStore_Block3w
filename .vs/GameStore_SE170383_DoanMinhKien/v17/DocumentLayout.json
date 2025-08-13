@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SU25\\PRN222\\ReWork\\Lab3\\Lab3_Ver2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B494D44-4306-4CBD-9BA4-05AF34D71CCD}|Lab3_Ver2\\GameStore_SE170383_DoanMinhKien.csproj|d:\\su25\\prn222\\rework\\lab3\\lab3_ver2\\lab3_ver2\\pages\\games\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B494D44-4306-4CBD-9BA4-05AF34D71CCD}|Lab3_Ver2\\GameStore_SE170383_DoanMinhKien.csproj|solutionrelative:lab3_ver2\\pages\\games\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B494D44-4306-4CBD-9BA4-05AF34D71CCD}|Lab3_Ver2\\GameStore_SE170383_DoanMinhKien.csproj|d:\\su25\\prn222\\rework\\lab3\\lab3_ver2\\lab3_ver2\\pages\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B494D44-4306-4CBD-9BA4-05AF34D71CCD}|Lab3_Ver2\\GameStore_SE170383_DoanMinhKien.csproj|solutionrelative:lab3_ver2\\pages\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B494D44-4306-4CBD-9BA4-05AF34D71CCD}|Lab3_Ver2\\GameStore_SE170383_DoanMinhKien.csproj|d:\\su25\\prn222\\rework\\lab3\\lab3_ver2\\lab3_ver2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B494D44-4306-4CBD-9BA4-05AF34D71CCD}|Lab3_Ver2\\GameStore_SE170383_DoanMinhKien.csproj|solutionrelative:lab3_ver2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B494D44-4306-4CBD-9BA4-05AF34D71CCD}|Lab3_Ver2\\GameStore_SE170383_DoanMinhKien.csproj|d:\\su25\\prn222\\rework\\lab3\\lab3_ver2\\lab3_ver2\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B494D44-4306-4CBD-9BA4-05AF34D71CCD}|Lab3_Ver2\\GameStore_SE170383_DoanMinhKien.csproj|solutionrelative:lab3_ver2\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B494D44-4306-4CBD-9BA4-05AF34D71CCD}|Lab3_Ver2\\GameStore_SE170383_DoanMinhKien.csproj|d:\\su25\\prn222\\rework\\lab3\\lab3_ver2\\lab3_ver2\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B494D44-4306-4CBD-9BA4-05AF34D71CCD}|Lab3_Ver2\\GameStore_SE170383_DoanMinhKien.csproj|solutionrelative:lab3_ver2\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B494D44-4306-4CBD-9BA4-05AF34D71CCD}|Lab3_Ver2\\GameStore_SE170383_DoanMinhKien.csproj|d:\\su25\\prn222\\rework\\lab3\\lab3_ver2\\lab3_ver2\\pages\\auth\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B494D44-4306-4CBD-9BA4-05AF34D71CCD}|Lab3_Ver2\\GameStore_SE170383_DoanMinhKien.csproj|solutionrelative:lab3_ver2\\pages\\auth\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 27,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,6 +139,84 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\SU25\\PRN222\\ReWork\\Lab3\\Lab3_Ver2\\Lab3_Ver2\\Pages\\Games\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab3_Ver2\\Pages\\Games\\Create.cshtml",
+              "ToolTip": "D:\\SU25\\PRN222\\ReWork\\Lab3\\Lab3_Ver2\\Lab3_Ver2\\Pages\\Games\\Create.cshtml",
+              "RelativeToolTip": "Lab3_Ver2\\Pages\\Games\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T06:00:15.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN222\\ReWork\\Lab3\\Lab3_Ver2\\Lab3_Ver2\\Pages\\Games\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Lab3_Ver2\\Pages\\Games\\Create.cshtml.cs",
+              "ToolTip": "D:\\SU25\\PRN222\\ReWork\\Lab3\\Lab3_Ver2\\Lab3_Ver2\\Pages\\Games\\Create.cshtml.cs",
+              "RelativeToolTip": "Lab3_Ver2\\Pages\\Games\\Create.cshtml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:57:32.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN222\\ReWork\\Lab3\\Lab3_Ver2\\Lab3_Ver2\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Lab3_Ver2\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\SU25\\PRN222\\ReWork\\Lab3\\Lab3_Ver2\\Lab3_Ver2\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Lab3_Ver2\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:55:03.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SU25\\PRN222\\ReWork\\Lab3\\Lab3_Ver2\\Lab3_Ver2\\Pages\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab3_Ver2\\Pages\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\SU25\\PRN222\\ReWork\\Lab3\\Lab3_Ver2\\Lab3_Ver2\\Pages\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Lab3_Ver2\\Pages\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T05:54:38.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\SU25\\PRN222\\ReWork\\Lab3\\Lab3_Ver2\\Lab3_Ver2\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab3_Ver2\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\SU25\\PRN222\\ReWork\\Lab3\\Lab3_Ver2\\Lab3_Ver2\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab3_Ver2\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T05:53:21.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\SU25\\PRN222\\ReWork\\Lab3\\Lab3_Ver2\\Lab3_Ver2\\Pages\\Auth\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Lab3_Ver2\\Pages\\Auth\\AccessDenied.cshtml",
+              "ToolTip": "D:\\SU25\\PRN222\\ReWork\\Lab3\\Lab3_Ver2\\Lab3_Ver2\\Pages\\Auth\\AccessDenied.cshtml",
+              "RelativeToolTip": "Lab3_Ver2\\Pages\\Auth\\AccessDenied.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-13T05:49:39.675Z",
+              "EditorCaption": ""
             }
           ]
         }

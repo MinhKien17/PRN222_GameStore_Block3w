@@ -12,3 +12,4 @@ D:\SU25\PRN222\ReWork\Lab3\Lab3_Ver2\DataLayer\obj\Debug\net8.0\refint\DataLayer
 D:\SU25\PRN222\ReWork\Lab3\Lab3_Ver2\DataLayer\obj\Debug\net8.0\DataLayer.pdb
 D:\SU25\PRN222\ReWork\Lab3\Lab3_Ver2\DataLayer\obj\Debug\net8.0\DataLayer.genruntimeconfig.cache
 D:\SU25\PRN222\ReWork\Lab3\Lab3_Ver2\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
+D:\SU25\PRN222\ReWork\Lab3\Lab3_Ver2\DataLayer\obj\Debug\net8.0\DataLayer.sourcelink.json

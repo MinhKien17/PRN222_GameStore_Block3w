@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace DataLayer.Models;
 
@@ -11,6 +12,7 @@ public partial class Game
 
     public decimal Price { get; set; }
 
+    [DataType(DataType.Date)]
     public DateOnly? ReleaseDate { get; set; }
 
     public int? CategoryId { get; set; }
